@@ -1,0 +1,9 @@
+﻿  PlayfairCipher.cpp
+e:\facultate\visualprojects\playfaircipher\playfaircipher\playfaircipher.cpp(19): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\visualprojects\playfaircipher\playfaircipher\playfaircipher.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\visualprojects\playfaircipher\playfaircipher\playfaircipher.cpp(52): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\visualprojects\playfaircipher\playfaircipher\playfaircipher.cpp(54): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\visualprojects\playfaircipher\playfaircipher\playfaircipher.cpp(154): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\visualprojects\playfaircipher\playfaircipher\playfaircipher.cpp(162): warning C4018: '<': signed/unsigned mismatch
+  PlayfairCipher.vcxproj -> E:\FACULTATE\VisualProjects\PlayfairCipher\Debug\PlayfairCipher.exe
+  PlayfairCipher.vcxproj -> E:\FACULTATE\VisualProjects\PlayfairCipher\Debug\PlayfairCipher.pdb (Full PDB)
